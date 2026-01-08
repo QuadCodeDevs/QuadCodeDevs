@@ -1,16 +1,21 @@
-## Hi there 👋
+# Bem-vindo à QuadCode Devs 👋
 
-<!--
-**QuadCodeDevs/QuadCodeDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Somos um grupo de desenvolvedores apaixonados por tecnologia e boas práticas de engenharia de software.
 
-Here are some ideas to get you started:
+## 🚀 Nossos Objetivos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Praticar e aperfeiçoar habilidades técnicas em equipe
+- Modelar projetos com foco em escalabilidade e boas práticas
+- Criar soluções que resolvam problemas reais
+
+## 👨‍💻 Integrantes
+
+- [@Wenes11](https://github.com/Wenes11)
+- [@GustavoWillian7](https://github.com/GustavoWillian7)
+- [@marcosbaccin](https://github.com/marcosbaccin)
+- [@leoOliveira568](https://github.com/leoOliveira568)
+- [@CamilaGVitoria](https://github.com/CamilaGVitoria)
+
+## 📬 Contato
+
+Entre em contato pelo [devsterabyte@gmail.com](mailto:quadcodedevs@gmail.com) ou envie uma issue.
