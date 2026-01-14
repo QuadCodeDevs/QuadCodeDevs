@@ -19,4 +19,4 @@ Nosso site: https://quadcode.netlify.app/
 
 ## 📬 Contato
 
-Entre em contato pelo [devsterabyte@gmail.com](mailto:quadcodedevs@gmail.com) ou envie uma issue.
+Entre em contato pelo [quadcodedevs@gmail.com](mailto:quadcodedevs@gmail.co) ou envie uma issue.
