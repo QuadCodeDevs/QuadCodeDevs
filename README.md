@@ -1,7 +1,7 @@
 # Bem-vindo à QuadCode Devs 👋
 
 Somos um grupo de desenvolvedores apaixonados por tecnologia e boas práticas de engenharia de software.
-Nosso site: https://quadcode.netlify.app/
+Nosso site: https://quadcode.dev.br/
 
 ## 🚀 Nossos Objetivos
 
